@@ -6,56 +6,55 @@ Syntecxhub User Management System is a RESTful User Management API built using N
 
 This project was developed as **Project 1 – User Management System** during my Web Development Internship at **Syntecxhub**.
 
-## 🌐 Live Demo
+## 🌐 Live API
 
-🚀 **View User Management API**
+🚀 **[View User Management API](https://user-management-system-chxn.onrender.com)**
 
-## 📂 GitHub Repository
 
-💻 **View Source Code on GitHub**
 
 ## ✨ Features
 
-➕ Create new users  
-👥 Retrieve all users  
-🔎 Retrieve a user by ID  
-✏️ Update user details  
-🗑️ Delete users  
-🔐 Basic Authentication for protected API endpoints  
-🔒 Password hashing using bcrypt  
-☁️ MongoDB Atlas database integration  
-✅ Mongoose schema validation  
-📧 Unique email validation  
-⚠️ Centralized error handling  
-🔑 Environment variables for sensitive configuration  
-🌐 RESTful API architecture  
-🧪 API testing using Postman  
+- ➕ Create new users
+- 👥 Retrieve all users
+- 🔎 Retrieve a user by ID
+- ✏️ Update user details
+- 🗑️ Delete users
+- 🔐 Basic Authentication for protected API endpoints
+- 🔒 Password hashing using bcrypt
+- ☁️ MongoDB Atlas database integration
+- ✅ Mongoose schema validation
+- 📧 Unique email validation
+- ⚠️ Centralized error handling
+- 🔑 Environment variables for sensitive configuration
+- 🌐 RESTful API architecture
+- 🧪 API testing using Postman
 
 ## 🛠️ Technologies Used
 
 ### Backend
 
-🟢 Node.js  
-🚂 Express.js  
+- 🟢 Node.js
+- 🚂 Express.js
 
 ### Database
 
-🍃 MongoDB Atlas  
-📦 Mongoose  
+- 🍃 MongoDB Atlas
+- 📦 Mongoose
 
 ### Security & Configuration
 
-🔐 bcrypt  
-🔑 dotenv  
+- 🔐 bcrypt
+- 🔑 dotenv
 
 ### Development & Testing
 
-🧑‍💻 Visual Studio Code  
-📮 Postman  
-📦 npm  
-🔄 Nodemon  
-🔧 Git  
-🐙 GitHub  
+- 🧑‍💻 Visual Studio Code
+- 📮 Postman
+- 📦 npm
+- 🔄 Nodemon
+- 🔧 Git
+- 🐙 GitHub
+- 🚀 Render
 
 ## 🔐 Authentication & Security
 
@@ -125,7 +124,7 @@ Follow these steps to run the User Management API locally.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/YerraboinaManeesha/Syntecxhub_User_Management_System.git
 ```
 
 ### 2. Navigate to the project directory
@@ -167,7 +166,7 @@ npm run dev
 npm start
 ```
 
-The API runs at:
+The API runs locally at:
 
 ```text
 http://localhost:5000
@@ -259,6 +258,15 @@ Mongoose is used to:
 - Enforce unique email addresses
 - Interact with the MongoDB database
 
+## 🚀 Deployment
+
+The User Management System API is deployed using **Render** as a Web Service.
+
+🌐 **Live API:**  
+https://user-management-system-chxn.onrender.com
+
+The deployed application connects to MongoDB Atlas using environment variables configured in Render.
+
 ## 🎯 Project Objectives
 
 The main objectives of this project were to:
@@ -272,21 +280,16 @@ The main objectives of this project were to:
 - Handle API errors centrally
 - Manage sensitive configuration using environment variables
 - Test REST APIs using Postman
+- Deploy a backend API to a cloud hosting platform
 
 ## 🎓 Internship Details
 
 **Internship:** Web Development Internship  
 **Organization:** Syntecxhub  
-**Project:** Project 1 – User Management System  
+**Project:** Project 2 – User Management System  
 **Technology:** Node.js, Express.js, MongoDB, Mongoose
 
-## 🔗 Links
 
-🌐 **Live Demo:** `<YOUR_DEPLOYED_API_URL>`
-
-💻 **GitHub Repository:** `<YOUR_GITHUB_REPOSITORY_URL>`
-
-👩‍💻 **GitHub Profile:** https://github.com/YerraboinaManeesha
 
 ## 👤 Author
 
